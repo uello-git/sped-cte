@@ -1,5 +1,5 @@
 {
-    "name": "nfephp-org/sped-cte",
+    "name": "uello-git/sped-cte",
     "type": "library",
     "description": "API para geração e comunicação da CTe com as SEFAZ autorizadoras.",
     "keywords": ["cte", "sped", "nfephp"],
